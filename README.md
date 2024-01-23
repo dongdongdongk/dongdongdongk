@@ -13,6 +13,13 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/nexacro-DAA449.svg?style=for-the-badge&logo=NEC&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white">
+  <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/nodejs-339933.svg?style=for-the-badge&logo=nodejs&logoColor=white">
+  
 
   
   
@@ -20,6 +27,7 @@
   
   
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongdongdongk&show_icons=true&theme=스타일)
- 
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dongdongdongk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongdongdongk%2Fhit-counter&count_bg=%2339BE21&title_bg=%232DBBE5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
