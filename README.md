@@ -1,4 +1,4 @@
-<div align=center><h1>📚 STACKS</h1></div>
+# 💻 Tech Stack:
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -19,15 +19,14 @@
   <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/nodejs-339933.svg?style=for-the-badge&logo=nodejs&logoColor=white">
-  
 
-  
-  
-  <br>
-  
-  
-  
-  
+# 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dongdongdongk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongdongdongk%2Fhit-counter&count_bg=%2339BE21&title_bg=%232DBBE5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  
+  
+  
 </div>
